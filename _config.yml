@@ -1,0 +1,6 @@
+# Site settings
+title: MediaElement.js test
+baseurl: ""
+
+# Build settings
+markdown: kramdown
